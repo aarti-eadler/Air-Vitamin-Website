@@ -369,7 +369,7 @@
 }
 @media screen and (max-width: 480px) {
     .circle-container {
-        transform: scale(0.5);
+        transform: scale(0.8);
    }
    .services-container{
        margin-top: 0px;
