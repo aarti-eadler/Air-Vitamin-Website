@@ -298,9 +298,9 @@
     top: 50%;
     text-align: center;
     width: 70%;
-    font-size: 27px;
+    font-size: 19px;
     margin: 0 auto;
-    left: 0;
+    left: 15px;
     right: 0;
     line-height: 1;
     display: block;
@@ -370,6 +370,7 @@
 @media screen and (max-width: 480px) {
     .circle-container {
         transform: scale(0.8);
+        margin: auto;
    }
    .services-container{
        margin-top: 0px;
